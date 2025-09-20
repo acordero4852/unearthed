@@ -1,6 +1,5 @@
 const renderGift = async () => {
     const requestedID = parseInt(window.location.href.split('/').pop());
-    console.log(requestedID)
 
     const response = await fetch('/gifts');
     const data = await response.json();
