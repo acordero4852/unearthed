@@ -4,7 +4,7 @@ import React, {useState, useEffect} from 'react';
 import { useParams } from 'react-router-dom';
 import './GiftDetails.css'
 
-const GiftDetails = ({data}) => {
+const GiftDetails = () => {
 
     const [gift, setGift] = useState({id: 0, name: "", pricepoint: "", audience: "", image: "", description: "", submittedby: "", submittedon: ""})
 
