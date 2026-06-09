@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import './GiftDetails.css';
+import '../css/GiftDetails.css';
 
 const GiftDetails = ({ data }) => {
 

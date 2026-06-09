@@ -48,3 +48,7 @@ npm run dev
 ### Lab 3
 
 ![Lab 3](gif/Lab-3.gif)
+
+### Lab 4
+
+![Lab 4](gif/Lab-4.gif)
